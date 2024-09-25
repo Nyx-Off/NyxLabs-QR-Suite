@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QR Code Generator - Thème Sombre</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="particles-js"></div>
+    <div class="container">
+        <h1>Générateur de QR Code</h1>
+        <div class="input-section">
+            <input type="text" id="url-input" placeholder="Entrez l'URL ici" />
+            <button id="generate-btn">Générer</button>
+        </div>
+        <div class="qr-code-section">
+            <canvas id="qr-code"></canvas>
+        </div>
+        <div class="download-section">
+            <button id="download-btn" style="display: none;">Télécharger QR Code</button>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrious/4.0.2/qrious.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
