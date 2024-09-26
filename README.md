@@ -38,7 +38,7 @@
 1. Clonez le dépôt et naviguez dans le dossier Rust :
    ```bash
    git clone https://github.com/ton-utilisateur/NyxLabs-QR-Suite.git
-   cd NyxLabs-QR-Suite/rust
+   cd NyxLabs-QR-Suite/rust/generate_qr
    ```
 2. Construisez et exécutez le projet :
    ```bash
