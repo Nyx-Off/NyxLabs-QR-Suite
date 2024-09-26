@@ -1,6 +1,5 @@
 # NyxLabs QR Suite
 
-# CyberNet Portfolio 
 ![Static Badge](https://img.shields.io/badge/Contributeur-1-brightgreen?style=flat&logo=clubhouse&logoColor=white&logoSize=auto) ![License](https://img.shields.io/github/license/Nyx-Off/AceVenturaTheGame) 
 ![Static Badge](https://img.shields.io/badge/JavaScript-black?style=plastic&logo=javascript&logoColor=white&logoSize=auto&color=purple)
 ![Static Badge](https://img.shields.io/badge/HTML-black?style=plastic&logo=html5&logoColor=white&logoSize=auto&color=orange)
